@@ -8,5 +8,10 @@
   },
   "keywords": [],
   "author": "Diane L. Jones",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/preset-react": "^7.0.0"
+  }
 }

@@ -4,3 +4,5 @@
 ## Setup
 
 ## npm install
+
+## babel
