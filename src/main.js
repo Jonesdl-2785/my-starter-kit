@@ -1,1 +1,1 @@
-console.log('Welcome to My Starter Kit');
+console.log('Hello World!');
