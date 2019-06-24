@@ -6,3 +6,7 @@
 ## npm install
 
 ## babel
+
+## Compile
+ 
+## npm run compile
